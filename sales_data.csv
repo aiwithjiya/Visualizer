@@ -1,0 +1,101 @@
+SalesID,Product,Region,Sales,Year
+101,Product A,North,500,2022
+102,Product B,East,600,2022
+103,Product C,West Coast,700,2022
+104,Product D,South,800,2022
+105,Product E,Central,550,2022
+106,Product E,West Coast,465,2024
+107,Product D,Central,445,2023
+108,Product A,South,522,2024
+109,Product E,Central,757,2022
+110,Product A,Central,747,2022
+111,Product A,South,858,2023
+112,Product A,South,581,2024
+113,Product C,East,540,2023
+114,Product D,East,739,2022
+115,Product C,Central,745,2024
+116,Product C,South,748,2022
+117,Product D,North,972,2022
+118,Product E,West Coast,616,2023
+119,Product E,West Coast,410,2023
+120,Product E,West Coast,485,2023
+121,Product C,South,656,2023
+122,Product B,North,525,2022
+123,Product C,West Coast,468,2022
+124,Product E,West Coast,487,2024
+125,Product A,Central,717,2023
+126,Product E,North,649,2024
+127,Product A,East,859,2024
+128,Product A,Central,544,2022
+129,Product B,South,573,2024
+130,Product A,East,552,2023
+131,Product B,Central,582,2024
+132,Product D,North,526,2024
+133,Product C,Central,517,2024
+134,Product A,South,848,2024
+135,Product B,East,406,2024
+136,Product A,South,994,2022
+137,Product B,Central,440,2022
+138,Product E,North,788,2024
+139,Product D,North,899,2022
+140,Product B,East,921,2022
+141,Product D,North,742,2024
+142,Product E,South,626,2024
+143,Product E,West Coast,864,2023
+144,Product A,East,776,2024
+145,Product B,West Coast,721,2024
+146,Product A,West Coast,765,2022
+147,Product A,East,539,2022
+148,Product B,West Coast,465,2024
+149,Product A,West Coast,556,2023
+150,Product D,South,597,2023
+151,Product D,North,758,2023
+152,Product D,Central,527,2022
+153,Product A,North,587,2022
+154,Product D,North,415,2023
+155,Product B,South,971,2022
+156,Product C,North,615,2024
+157,Product A,East,949,2022
+158,Product E,South,436,2024
+159,Product E,East,684,2022
+160,Product B,East,977,2024
+161,Product E,East,876,2024
+162,Product C,South,629,2023
+163,Product A,West Coast,629,2024
+164,Product E,North,999,2024
+165,Product A,Central,822,2023
+166,Product D,North,822,2022
+167,Product D,West Coast,605,2022
+168,Product D,East,584,2023
+169,Product B,East,675,2023
+170,Product D,Central,660,2022
+171,Product E,West Coast,900,2023
+172,Product E,North,988,2022
+173,Product B,West Coast,573,2022
+174,Product C,Central,909,2023
+175,Product E,South,896,2024
+176,Product E,West Coast,765,2023
+177,Product C,South,700,2024
+178,Product C,South,460,2024
+179,Product A,Central,622,2023
+180,Product D,Central,941,2023
+181,Product E,Central,616,2024
+182,Product B,South,734,2022
+183,Product A,East,605,2023
+184,Product C,West Coast,900,2022
+185,Product B,Central,587,2023
+186,Product A,North,682,2024
+187,Product B,North,936,2022
+188,Product E,North,467,2022
+189,Product A,East,409,2022
+190,Product D,North,558,2024
+191,Product D,South,475,2022
+192,Product E,West Coast,584,2024
+193,Product E,East,436,2024
+194,Product E,East,860,2024
+195,Product B,East,596,2023
+196,Product B,South,539,2022
+197,Product E,South,818,2022
+198,Product C,North,531,2022
+199,Product E,East,849,2023
+200,Product B,East,623,2022
